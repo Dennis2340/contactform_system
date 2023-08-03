@@ -1,0 +1,15 @@
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\bin\Debug\net7.0-windows\ContactFormManagementSystem.exe
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\bin\Debug\net7.0-windows\ContactFormManagementSystem.deps.json
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\bin\Debug\net7.0-windows\ContactFormManagementSystem.runtimeconfig.json
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\bin\Debug\net7.0-windows\ContactFormManagementSystem.dll
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\bin\Debug\net7.0-windows\ContactFormManagementSystem.pdb
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ContactFormManagementSystem.csproj.AssemblyReference.cache
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ContactFormManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ContactFormManagementSystem.AssemblyInfoInputs.cache
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ContactFormManagementSystem.AssemblyInfo.cs
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ContactFormManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ContactFormManagementSystem.dll
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\refint\ContactFormManagementSystem.dll
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ContactFormManagementSystem.pdb
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ContactFormManagementSystem.genruntimeconfig.cache
+C:\Users\LENOVO\c_sharp\ContactFormManagementSystem\obj\Debug\net7.0-windows\ref\ContactFormManagementSystem.dll
